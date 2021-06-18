@@ -1,0 +1,5 @@
+name: stless
+description: stateless widget
+vars:
+  - name
+  - routable

@@ -1,0 +1,9 @@
+bricks:
+  hello:
+    path: bricks/hello
+  stless:
+    path: bricks/stless
+  freezed:
+    path: bricks/freezed
+  cubit:
+    path: bricks/cubit
