@@ -1,4 +1,4 @@
 name: freezed
-description: A new brick created with the Mason CLI.
+description: Freezed model template
 vars:
   - name
