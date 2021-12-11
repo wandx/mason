@@ -7,3 +7,7 @@ bricks:
     path: bricks/freezed
   cubit:
     path: bricks/cubit
+  formz:
+    path: bricks/formz
+  exception:
+    path: bricks/exception
