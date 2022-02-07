@@ -1,4 +1,5 @@
 name: cubit
+version: 1.0.0
 description: cubit with freezed
 vars:
   - name

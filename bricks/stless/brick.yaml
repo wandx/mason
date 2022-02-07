@@ -1,4 +1,5 @@
 name: stless
+version: 1.0.0
 description: stateless widget
 vars:
   - name

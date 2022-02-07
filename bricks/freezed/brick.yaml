@@ -1,4 +1,5 @@
 name: freezed
+version: 1.0.0
 description: Freezed model template
 vars:
   - name
